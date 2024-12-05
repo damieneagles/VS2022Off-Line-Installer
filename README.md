@@ -6,7 +6,7 @@ NOTE - Needs some config. (It says it has a virus, but I can't find one... Must 
 1. Install IIS
 2. Add MimeType for .ps1 (See Diagram below)
 3. Double click the VHD to mount it (Appears as an extra drive in file explorer. Right click the drive and eject to unmount)
-4. Copy "inetpub\wwwroot\*.*" on VHD to your "Default Web Site" directory
+4. Copy "inetpub\wwwroot\\*.*" on VHD to your "Default Web Site" directory
 5. Run the GetVisualStudio.bat (Using a high bandwidth connection it's about 24 hours as it downloads Visual Studio 2022 in all languages - So run overnight)
 6. After you get a green line saying successful make sure the Response.json on the VHD overwrites the Response.json under C:\VS2022\VisualStudio directory. If you don't get a success REM the section in the batch file that removes the C:\VSLayout directory and run it again, it will verify the existing packages and keep going from where it left off!!!
 7. Install PowerShell x64
