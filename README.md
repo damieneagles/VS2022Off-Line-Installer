@@ -1,4 +1,4 @@
-# VS2022Off-Line-Installer
+# Microsoft Visual Studio 2022 Off-Line-Installer
 Builds a Visual Studio 2022 Offline Installer for local intranet use.
 
 NOTE - Needs some config.
