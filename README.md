@@ -9,7 +9,7 @@ NOTE - Needs some config.
 4. Run the GetVisualStudio.bat
 5. After you get a green line saying successful make sure the Response.json overwrites the Response.json under C:\VS2022\VisualStudio directory.
 6. Install PowerShell x64
-7. goto http://localhost to start the installer it will download the ps1 script and there are some instruction on http://localhost to run so that the ps1 content runs as remnotesigned.
+7. goto http://localhost to start the installer it will download the ps1 script and there are some instruction on http://localhost to run so that the ps1 content runs as remotesigned.
 8. ALL GOOD!!!
 
 
