@@ -1,5 +1,5 @@
 # Microsoft Visual Studio 2022 Off-Line-Installer
-Builds a Visual Studio 2022 Offline Installer for local intranet use.
+Builds a Microsoft Visual Studio 2022 Offline Installer for local intranet use.
 
 NOTE - Needs some config. (It says it has a virus, but I can't find one... Must be the powershell script .ps1... proceed at your own risk...)
 
